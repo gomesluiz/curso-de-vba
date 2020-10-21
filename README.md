@@ -4,7 +4,7 @@ Neste curso o aluno aprenderá a programar construções básicas de códigos em
 
 ## Conteúdo
 
-- 21/10 [slides](github.com/gomesluiz/python-para-ciencia-de-dados/blob/master/slides/aula-2.pdf)
+- 21/10 [slides](https://github.com/gomesluiz/curso-de-vba/blob/master/aluno/slides/aula01.pdf)
 - 22/10 [slides]()
 
 1. Numbered
