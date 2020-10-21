@@ -8,7 +8,7 @@ Neste curso o aluno aprenderá a programar construções básicas de códigos em
 1. Projeto 1 [[Enunciado](https://github.com/gomesluiz/curso-de-vba/blob/master/aluno/projetos/01/Projeto_1.pdf)] [[Planilha](https://github.com/gomesluiz/curso-de-vba/blob/master/aluno/projetos/01/Projeto_1.xlsx)] 
 2. Projeto 2 [[Enunciado](https://github.com/gomesluiz/curso-de-vba/blob/master/aluno/projetos/02/Projeto_2.pdf)] [[Planilha](https://github.com/gomesluiz/curso-de-vba/blob/master/aluno/projetos/02/Projeto_2.xlsx)] 
 3. Projeto 3 [[Enunciado](https://github.com/gomesluiz/curso-de-vba/blob/master/aluno/projetos/03/Projeto_3.pdf)] [[Planilha](https://github.com/gomesluiz/curso-de-vba/blob/master/aluno/projetos/03/Projeto_3.xlsx)] 
-4. Projeto 4 [[Enunciado](https://github.com/gomesluiz/curso-de-vba/blob/master/aluno/projetos/04/Projeto_2.pdf)] [[Planilha](https://github.com/gomesluiz/curso-de-vba/blob/master/aluno/projetos/04/Projeto_4.xlsx)] 
+4. Projeto 4 [[Enunciado](https://github.com/gomesluiz/curso-de-vba/blob/master/aluno/projetos/04/Projeto_4.pdf)] [[Planilha](https://github.com/gomesluiz/curso-de-vba/blob/master/aluno/projetos/04/Projeto_4.xlsx)] 
 - 22/10 [[slides](https://github.com/gomesluiz/curso-de-vba/blob/master/aluno/slides/aula02.pdf)]
 
 ### Minicurriculo:
