@@ -1,10 +1,8 @@
 ## Programando o Excel com VBA
 
-You can use the [editor on GitHub](https://github.com/gomesluiz/curso-de-vba/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Neste curso o aluno aprenderá a programar construções básicas de códigos em Visual Basic for Application (VBA) para criar aplicações de software no Excel para automatizar deste tarefas simples até tarefas complexas em uma planilha eletrônica.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### Conteúdo
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
